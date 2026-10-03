@@ -4,7 +4,7 @@ This is a mod for UNBEATABLE that lets you play your own videos in the playback 
 This is an unofficial mod that is not endorsed by D-CELL GAMES in any way.
 
 > [!CAUTION]
-> DO NOT RENAME THE BASE MOD FOLDER AND VIDEOS FOLDER! The base folder and videos folder must have their default names for the mod to work!
+> DO NOT RENAME THE BASE MOD FOLDER AND/OR VIDEOS FOLDER! The base folder and videos folder must have their default names for the mod to work!
 
 ## Installation
 This works alongside [BepInEx 5](https://github.com/bepinex/bepinex), you should be able to throw the base FOUNDSIGNAL folder that contains the plugin and Videos folder into \<UNBEATABLE path>\/BepInEx/plugins.
